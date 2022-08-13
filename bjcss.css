@@ -1,0 +1,32 @@
+body {
+    font-family: Poker;
+    text-align: center;
+    color: whitesmoke;
+    /* background-color: green; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    background-image: url(table.png);
+    background-size: cover;
+
+}
+
+h1 {
+    color: goldenrod;
+}
+
+message-element {
+    font-style: italic;
+}
+
+button {
+    background-color: goldenrod;
+    color: #016f32;
+    width: 150px;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    box-shadow: 1px 1px 1px black;
+    border-radius: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
